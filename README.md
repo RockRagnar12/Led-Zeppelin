@@ -7,7 +7,7 @@
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 ### `Si necesitas ayuda mandame mensaje`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/51951856266" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 > NO BOT
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
@@ -75,5 +75,5 @@ de WhatsApp, por lo que sugiero usar este WhatsApp:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
 ```bash
-`The Shadow Brokers - Bot ___ By Bruno Sobrino` 
+`ALEX CAP - BOT ___ By Bruno Sobrino` 
 ```

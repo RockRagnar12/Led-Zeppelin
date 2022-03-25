@@ -1,7 +1,7 @@
 {
-  "name": "ShadowBotV3",
+  "name": "Alexanderv3",
   "version": "10.8.9",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "description": "Bot creado por Alex - Bot (≧▽≦)",
   "depecrated": false,
   "main": "index.js",
   "directories": {
