@@ -20,15 +20,11 @@ let str = `
 ■█🔥█■▰▱▰▱▰▱■█🔥█■
 ▋┋ *<MENU SIMPLE/>*
 ■█🔥█■▰▱▰▱▰▱■█🔥█■
-▋┋ ℹ️️ _${usedPrefix}sc_
 ▋┋ ℹ️️ _${usedPrefix}donar_
 ▋┋ ℹ️️ _${usedPrefix}infobot_
 ▋┋ ℹ️️ _${usedPrefix}grupos_
 ▋┋ ℹ️ _${usedPrefix}instalarbot_
 ▋┋ ℹ️ _${usedPrefix}menusimple_
-▋┋ ℹ️️ _${usedPrefix}menuaudios_
-▋┋ ℹ️️ _${usedPrefix}menu2_
-▋┋ ℹ️️ _${usedPrefix}labiblia_
 ▋┋ ℹ️ _${usedPrefix}estado_
 ■█🔥█■▰▱▰▱▰▱■█🔥█■
 ▋┋ ℹ️ _Bot_
