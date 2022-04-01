@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /baneado|Baneado|ban|Ban/
+handler.customPrefix = /baneado|Baneado/
 handler.command = new RegExp
 module.exports = handler
