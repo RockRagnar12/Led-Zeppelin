@@ -25,7 +25,6 @@ let str = `
 ° ඬ⃟🔊 _Vivan los novios_
 ° ඬ⃟🔊 _Feliz cumpleaños_
 ° ඬ⃟🔊 _Noche de paz_
-° ඬ⃟🔊 _Buenos dias_
 ° ඬ⃟🔊 _Audio hentai_
 ° ඬ⃟🔊 _Chica lgante_
 ° ඬ⃟🔊 _Feliz navidad_
