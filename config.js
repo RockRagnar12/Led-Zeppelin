@@ -1,15 +1,15 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ' , 'https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs' , 'https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F' , 'https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC' , 'https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb'] // No tiene utilidad 
 global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
-global.owner = ['51951856266'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['5219991402134'] // No tiene utilidad
-global.prems = ['51951856266'] // Podra usar algunos comandos del apartado de propietario
+global.owner = ['51960394475'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['51960394475'] //No tiene utilidad
+global.prems = ['51960394475'] //Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
-// Nota: Puedes contactarme si necesitas ayuda con algo al +51951856266 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
-// => Solo dudas sobre la instalación, temas generales contactarme al +51951856266 o al +51951856266
-// => NO ayudo a hacer Bots, ni crearlos, ni editarlos 
-// - Haré tutoriales de como editar el Bot, los videos los podran encontrar en mi canal de YouTube en https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA
+//Nota: Puedes contactarme si necesitas ayuda con algo al +51960394475 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
+//=> Solo dudas sobre la instalación, temas generales contactarme al +51960394475 o al +5219992095479
+//=> NO ayudo a hacer Bots, ni crearlos, ni editarlos 
+//- Haré tutoriales de como editar el Bot, los videos los podran encontrar en mi canal de YouTube en https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -24,16 +24,16 @@ global.APIs = { // API Prefix
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.me',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
+  hardianto: 'https://hardianto.xyz',
+  pencarikode: 'https://api.chipa.xyz', 
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
   pencarikode: 'https://pencarikode.xyz',
   Velgrynd: 'https://velgrynd.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
-  hardianto: 'http://hardianto-chan.herokuapp.com',
   shadow: 'https://api.reysekha.xyz',
+  neoxr: 'https://api.neoxr.eu.org',
   apialc: 'https://api-alc.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
@@ -46,8 +46,9 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.me': 'apivinz',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
+  'https://hardianto.xyz': 'hardianto',
+  'https://api.neoxr.eu.org': 'yntkts',
+  'https://api.chipa.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ', 
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862'
@@ -58,7 +59,7 @@ global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = 'Alex Cap - Bot'
 
 
-global.wm = '©Alexander Capiso - Bot'
+global.wm = '©Alex Cap - Bot'
 global.wait = '*Espere un momento..*'
 
 
