@@ -300,8 +300,6 @@ let menu =`
 ▋┋ 👑 _${usedPrefix}bc *texto*_
 ▋┋ 👑 _${usedPrefix}deletechat_
 ▋┋ 👑 _${usedPrefix}mutechat_
-▋┋ 👑 _${usedPrefix}bcgc *texto*_
-▋┋ 👑 _${usedPrefix}bcbot *texto*_
 ▋┋ 👑 _${usedPrefix}mutechat *all*_
 ▋┋ 👑 _${usedPrefix}setbye *@tag*_
 ▋┋ 👑 _${usedPrefix}banuser *@tag*_
