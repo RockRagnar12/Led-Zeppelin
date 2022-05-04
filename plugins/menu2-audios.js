@@ -13,22 +13,47 @@ let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let str = `
 *_ミ💖 Hola ${username} 💖彡_*
-*<EXPLICACION/>*
-- Hola, soy Alex Cap, el creador del bot; en resumen, este proyecto es una inteligencia artificial creada con el fin de brindar servicios a personas y/o grupos en el que este agregado. Cabe recalcar que este bot esta libre de virus y por lo tanto *"NO"* es peligroso, tiene funciones como:
- 
- 👾 Crear stickers.
- 👾 Descargar musica y videos.
- 👾 Resolver Problemas matematicos.
- 👾 Personalizar y/o crear logos.
- 👾 Llamar a todos los miembros de un grupo.
- 👾 Tiene funciones para jugar.
- 👾 Tiene funciones basicas para grupos.
- 👾 Funciones Extras.
- 
-*_「 ALEX BOT 15.5  」_*`.trim()
+*<MENU DE AUDIOS/>*
+- Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
+° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
+° ඬ⃟🔊 _Te diagnostico con gay_
+° ඬ⃟🔊 _A nadie le importa_
+° ඬ⃟🔊 _Fiesta del admin_
+° ඬ⃟🔊 _Fiesta del admin 2_
+° ඬ⃟🔊 _Vivan los novios_
+° ඬ⃟🔊 _Feliz cumpleaños_
+° ඬ⃟🔊 _Noche de paz_
+° ඬ⃟🔊 _Audio hentai_
+° ඬ⃟🔊 _Chica lgante_
+° ඬ⃟🔊 _Feliz navidad_
+° ඬ⃟🔊 _Vete a la vrg_
+° ඬ⃟🔊 _Pasa pack Bot_
+° ඬ⃟🔊 _Atencion grupo_
+° ඬ⃟🔊 _Marica quien_
+° ඬ⃟🔊 _Murio el grupo_
+° ඬ⃟🔊 _Oh me vengo_
+° ඬ⃟🔊 _Viernes_
+° ඬ⃟🔊 _Baneado_
+° ඬ⃟🔊 _Sexo_
+° ඬ⃟🔊 _Hola_
+° ඬ⃟🔊 _Un pato_
+° ඬ⃟🔊 _Nyanpasu_
+° ඬ⃟🔊 _Te amo_
+° ඬ⃟🔊 _Yamete_
+° ඬ⃟🔊 _Bañate_
+° ඬ⃟🔊 _Es puto_
+° ඬ⃟🔊 _La biblia_
+° ඬ⃟🔊 _Onichan_
+° ඬ⃟🔊 _Bot puto_
+° ඬ⃟🔊 _Siuuu_
+° ඬ⃟🔊 _Rawr_
+° ඬ⃟🔊 _UwU_
+° ඬ⃟🔊 _:c_
+° ඬ⃟🔊 _a_
+*_「 ALEX BOT 15.0  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
-handler.command = /^(menu2|audios|menú2|memu2|menuaudio|menuaudios|memuaudios|alexcap|audios|audio)$/i
+handler.command = /^(menu2|audios|menú2|memu2|menuaudio|menuaudios|memuaudios|audios|audio)$/i
 handler.fail = null
 module.exports = handler
